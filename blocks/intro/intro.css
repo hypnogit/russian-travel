@@ -1,7 +1,9 @@
 .intro {
-  max-width: 690px;
-  margin: 0 442px 0 148px;
+  max-width: 984px;
+  margin: 0 auto;
   padding-bottom: 92px;
+  display: flex;
+  flex-direction: column;
 }
 
 @media screen and (max-width: 1050px) {
